@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "password": "1234",
+      "email": "behruztillayev0724@gmail.com",
+      "id": "1a2b"
+    },
+    {
+      "id": "1b2a",
+      "name": "Behruz",
+      "email": "behruztillayev0724@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
